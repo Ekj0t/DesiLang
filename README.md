@@ -9,7 +9,7 @@ DesiCode Studio is an educational and fun programming environment that allows yo
 
 ## Demo
 
-![DesiLang IDE Demo](demo.png)
+![DesiLang IDE Demo](IDEdemo.png)
 
 ---
 
