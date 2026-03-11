@@ -27,8 +27,8 @@ Here is a quick look at some of the keywords you can use:
 | `sahi` / `galat` | `True` / `False` |
 
 # A simple Punjabi-Python script
-ginti = 10
 ```
+ginti = 10
 je ginti > 5:
     likho("Number wadda hai!")
 nahi_ta:
