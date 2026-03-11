@@ -5,6 +5,14 @@ Write Python, but make it Punjabi.
 
 DesiCode Studio is an educational and fun programming environment that allows you to write Python logic using Punjabi vocabulary. It features a custom-built transpiler and a sleek, dark-themed IDE designed to parse, highlight, and run your Desi code seamlessly.
 
+---
+
+##Demo
+
+![Fluid Simulation Demo](smoke.gif)
+
+---
+
 ## 🚀 Features
 
 * **Punjabi Transpiler (`core_punjabi.py`):** Translates Punjabi keywords (like `je`, `nahi_ta`, `likho`) into standard Python syntax on the fly and executes them.
@@ -12,6 +20,8 @@ DesiCode Studio is an educational and fun programming environment that allows yo
 * **Live Syntax Highlighting:** Automatically colors your Punjabi keywords, functions, strings, numbers, and comments.
 * **Integrated Terminal:** See the output of your code (or catch those *Galtian*) right inside the app.
 * **File Management:** Save and open your custom `.pb` (Punjabi) script files.
+
+---
 
 ## 🛠️ Vocabulary Map
 Here is a quick look at some of the keywords you can use:
@@ -25,6 +35,8 @@ Here is a quick look at some of the keywords you can use:
 | `waaste` / `wich` | `for` / `in` |
 | `kamm` | `def` |
 | `sahi` / `galat` | `True` / `False` |
+
+---
 
 # A simple Punjabi-Python script
 ```
