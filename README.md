@@ -13,7 +13,7 @@ DesiCode Studio is an educational and fun programming environment that allows yo
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Punjabi Transpiler (`core_punjabi.py`):** Translates Punjabi keywords (like `je`, `nahi_ta`, `likho`) into standard Python syntax on the fly and executes them.
 * **Modern IDE (`modern_punjabi_ide.py`):** Built with `customtkinter`, featuring a beautiful "One Dark Pro" inspired UI.
@@ -23,7 +23,7 @@ DesiCode Studio is an educational and fun programming environment that allows yo
 
 ---
 
-## 🛠️ Vocabulary Map
+## Vocabulary Map
 Here is a quick look at some of the keywords you can use:
 
 | Punjabi Keyword | Python Equivalent |
