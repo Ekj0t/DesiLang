@@ -1,7 +1,7 @@
 # DesiLang
-DesiCode Studio ⚡ – A modern IDE and transpiler that lets you write, highlight, and execute Python code using Punjabi keywords.
+DesiCode Studio – Write Python, but in Punjabi. 
 
-Write Python, but make it Punjabi. 
+A modern IDE that lets you write and execute Python code using Punjabi keywords.
 
 DesiCode Studio is an educational and fun programming environment that allows you to write Python logic using Punjabi vocabulary. It features a custom-built transpiler and a sleek, dark-themed IDE designed to parse, highlight, and run your Desi code seamlessly.
 
